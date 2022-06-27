@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Dashboard UI with react 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was templated with [ChakraUI](https://chakra-ui.com/)
 
 ## Available Scripts
 
